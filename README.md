@@ -1,5 +1,3 @@
-# FinalProjectGroup13
-Lakshay Anand, Nikhil Batheja, Raj Kiran Reddy Narala, Roshan Fathima Sahul Hameed
 
 Pre-requisites
 
@@ -15,7 +13,7 @@ Instructions
 3.  Create a local repository in your cloud9 environment. Create a folder named  “finalproject” and initiate the following commands “git init” and to add the user name and email follow these commands “git config –global user.name “#enter user name” and git config –global user.email “#enter user email”
 4. Enter the remote file with this command: git remote add origin “#http link for the repo”
 5. Enter the following commands to check the status : git status
-6. Run the command = git clone -b master https://github.com/RoshanFathima/FinalProjectGroup13.git
+6. Clone the project
 7. For Devlopment, Switch the directory to dev, for staging, the directory is staging and for prod, its prod.
 7. Run tf init in both the network and vm folder.
 8. Upload one image in all of the buckets and create a public URL for it and paste it in "install_httpd.sh.tpl" file.
